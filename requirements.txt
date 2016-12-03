@@ -2,4 +2,4 @@ numpy
 TA-Lib
 pykalman
 pika
-websocket
+websocket-client
