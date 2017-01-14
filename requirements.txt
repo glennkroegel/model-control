@@ -3,3 +3,5 @@ TA-Lib
 pykalman
 pika
 websocket-client
+tensorflow
+keras
